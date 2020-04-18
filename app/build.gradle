@@ -3,7 +3,7 @@ apply plugin: 'com.google.gms.google-services'
 
 android {
     compileSdkVersion 29
-    buildToolsVersion "29.0.3"
+    buildToolsVersion "29.0.2"
     defaultConfig {
         applicationId "com.example.authenticationapp"
         minSdkVersion 21
@@ -29,4 +29,9 @@ dependencies {
     androidTestImplementation 'androidx.test:runner:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     implementation 'androidx.recyclerview:recyclerview:1.0.0'
+
+    implementation 'com.google.android.gms:play-services-ads:19.0.1'
+
+    //Material Components
+    implementation 'com.google.android.material:material:1.1.0'
 }

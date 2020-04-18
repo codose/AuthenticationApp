@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Otis</string>
+
+
+    <string name="appId">ca-app-pub-8946265346036879~3502641174</string>
+    <string name="testAdUnit">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="appAdUnit">ca-app-pub-8946265346036879/8962210782</string>
+    <string name="interestialAdUnit">ca-app-pub-8946265346036879/1794167206</string>
+    <string name="testInterestialAdUnit">ca-app-pub-3940256099942544/1033173712</string>
+
 </resources>
